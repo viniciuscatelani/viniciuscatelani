@@ -17,6 +17,7 @@ Tenho forte interesse em **inferência causal**, **inteligência artificial** e 
 📚 Atualmente aprofundando estudos em **DoWhy**, **CausalML** e **deploy de modelos**.
 
 ⭐ *Sinta-se à vontade para explorar meus repositórios e contribuir em projetos!*
+
 ---
 
 ## 🇺🇸 About me
