@@ -13,7 +13,6 @@ Tenho forte interesse em **inferência causal**, **inteligência artificial** e 
 🛠️ Tecnologias que utilizo:
 `Python` • `Pandas` • `NumPy` • `Seaborn` • `Plotly` • `SQL` • `Scikit-learn` • `AWS` • `Git`  
 📚 Atualmente aprofundando estudos em **DoWhy**, **CausalML** e **deploy de modelos**.
-
 ⭐ *Sinta-se à vontade para explorar meus repositórios e contribuir em projetos!*
 ---
 
