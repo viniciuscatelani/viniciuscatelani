@@ -10,9 +10,12 @@ Tenho forte interesse em **inferência causal**, **inteligência artificial** e 
 - **Infraestrutura em nuvem (AWS)** — provisionamento de bancos de dados, máquinas virtuais e suporte a aplicações web  
 
 🚀 Projetos pessoais incluem **dashboards interativos com Plotly**, análises exploratórias com Python/Pandas e visualizações avançadas.  
+
 🛠️ Tecnologias que utilizo:
 `Python` • `Pandas` • `NumPy` • `Seaborn` • `Plotly` • `SQL` • `Scikit-learn` • `AWS` • `Git`  
+
 📚 Atualmente aprofundando estudos em **DoWhy**, **CausalML** e **deploy de modelos**.
+
 ⭐ *Sinta-se à vontade para explorar meus repositórios e contribuir em projetos!*
 ---
 
@@ -26,7 +29,10 @@ Strong interest in **causal inference**, **artificial intelligence**, and **mach
 - **Cloud infrastructure (AWS)** — provisioning databases, virtual machines, and supporting web applications  
 
 🚀 Personal projects include **interactive dashboards with Plotly**, exploratory data analysis with Python/Pandas, and advanced visualizations.  
+
 🛠️ Tools I use:
 `Python` • `Pandas` • `NumPy` • `Seaborn` • `Plotly` • `SQL` • `Scikit-learn` • `AWS` • `Git`  
+
 📚 Currently learning **DoWhy**, **CausalML**, and **model deployment**.
+
 ⭐ *Feel free to explores my repos and contribute in the projects*
