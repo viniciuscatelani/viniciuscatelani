@@ -37,3 +37,11 @@ Strong interest in **causal inference**, **artificial intelligence**, and **mach
 📚 Currently learning **DoWhy**, **CausalML**, and **model deployment**.
 
 ⭐ *Feel free to explores my repos and contribute in the projects*
+
+---
+
+## Certificates
+<img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/97feb187-c2e0-4e25-a190-bb87c85d0a4f" />
+<img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/3ccacb65-4a35-4ce9-97f0-2dfbdd75d02a" />
+<img width="800" height="595" alt="image" src="https://github.com/user-attachments/assets/627c4c57-1fd9-4e5b-bf45-23fd9d39d0e3" />
+<img width="800" height="565" alt="image" src="https://github.com/user-attachments/assets/ef89f23a-e54c-4fad-beed-a6bbbd56bf64" />
