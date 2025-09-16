@@ -12,7 +12,7 @@ Tenho forte interesse em **inferência causal**, **inteligência artificial** e 
 🚀 Projetos pessoais incluem **dashboards interativos com Plotly**, análises exploratórias com Python/Pandas e visualizações avançadas.  
 
 🛠️ Tecnologias que utilizo:
-`Python` • `Pandas` • `NumPy` • `Seaborn` • `Plotly` • `SQL` • `Scikit-learn` • `AWS` • `Git`  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) • `Pandas` • `NumPy` • `Seaborn` • `Plotly` • `SQL` • `Scikit-learn` • `AWS` • `Git`  
 
 📚 Atualmente aprofundando estudos em **DoWhy**, **CausalML** e **deploy de modelos**.
 
